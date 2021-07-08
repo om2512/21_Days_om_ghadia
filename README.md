@@ -8,3 +8,5 @@ Day 1: Numerical computing with NumPy.
        
 Day 2: Multidimensional NumPy Arrays.
        Array slicing and indexing.
+
+Day3: NumPy Practice.

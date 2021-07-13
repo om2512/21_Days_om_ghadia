@@ -13,8 +13,10 @@ Day 3: NumPy Practice.
 
 Day 4: NumPy Practice.
 
-Day 5: Pandas
+Day 5: Pandas.
 
-Day 6: Pandas
+Day 6: Pandas.
 
-Day 7: Pandas
+Day 7: Pandas.
+
+Day 8: Pandas Practice.

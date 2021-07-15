@@ -21,4 +21,6 @@ Day 7: Pandas.
 
 Day 8: Pandas Practice.
 
-Day 9: Pandas
+Day 9: Pandas.
+
+Day 10: Pandas Practice.

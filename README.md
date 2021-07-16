@@ -24,3 +24,5 @@ Day 8: Pandas Practice.
 Day 9: Pandas.
 
 Day 10: Pandas Practice.
+
+Day 11: Plotting,Merging and Indexing.

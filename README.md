@@ -28,3 +28,5 @@ Day 10: Pandas Practice.
 Day 11: Plotting,Merging and Indexing.
 
 Day 12: Practice.
+
+Day 13: Matplotlib.

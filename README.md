@@ -30,3 +30,7 @@ Day 11: Plotting,Merging and Indexing.
 Day 12: Practice.
 
 Day 13: Matplotlib.
+
+Day 14: Practice.
+
+Day 15: Matplotlib.

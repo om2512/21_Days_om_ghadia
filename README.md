@@ -36,3 +36,5 @@ Day 14: Practice.
 Day 15: Matplotlib.
 
 Day 16: Data Cleaning.
+
+Day 17: Seaborn

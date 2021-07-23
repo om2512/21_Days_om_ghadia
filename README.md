@@ -37,4 +37,6 @@ Day 15: Matplotlib.
 
 Day 16: Data Cleaning.
 
-Day 17: Seaborn
+Day 17: Seaborn.
+
+Day 18: Revision.

@@ -40,3 +40,5 @@ Day 16: Data Cleaning.
 Day 17: Seaborn.
 
 Day 18: Revision.
+
+Day 19: Revision.

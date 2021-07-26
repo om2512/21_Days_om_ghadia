@@ -42,3 +42,7 @@ Day 17: Seaborn.
 Day 18: Revision.
 
 Day 19: Revision.
+
+Day 20: Revision.
+
+Day 21: Revision.
